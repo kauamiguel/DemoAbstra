@@ -18,6 +18,7 @@ from abstra.tasks import send_task
 from abstra_internals.widgets.response_types import FileResponse
 
 af.display("Hello my friend")
+af.display("Hello again")
 
 ### 📌 Abstra Forms is the easiest way to create dynamic forms that allow users to interact with your Python script.
 
